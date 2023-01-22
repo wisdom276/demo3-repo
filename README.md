@@ -1,3 +1,5 @@
 # demo3-repo
 
-my first tutorial on Git and Github
+My first tutorial on Git and Github
+Software Engineer
+
